@@ -19,6 +19,7 @@ layout: page
  - Project Management - Git
 
 Download Duck Hunter on GitHub [here](https://github.com/migdantas/Duck_Hunter).
+
 Download Processing [here](https://processing.org/).
 
 ## Smiley Catch
@@ -38,6 +39,7 @@ A micro-game proof of concept, developed as a way to challenge myself to learn h
  - Project Management - Git
 
 Download Smiley Catch [here](https://migdantas.itch.io/smileycatch).
+
 Check the project on GitHub [here](https://github.com/migdantas/Smiley_Catch).
 
 ## Space Darkness
