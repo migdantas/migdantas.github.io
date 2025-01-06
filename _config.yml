@@ -16,11 +16,11 @@ minimal: false             # use a dark header
 # Menu
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
-  - {file: "index.html"}
-  - {file: "README.md"}
+  - {file: "README.md", title: "About Me"}
+  - {file: "index.html", title: "Projects"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
-  - {title: Mail, icon: envelope, url: "migdantas99@gmail.com"}
+  - {title: Mail, icon: envelope, url: "mailto:migdantas99@gmail.com"}
   - {title: Github, icon: github, url: "https://github.com/migdantas"}
   # - {title: Subscribe, icon: rss, url: "/feed.xml"}
 
