@@ -55,7 +55,7 @@ A micro-game proof of concept, developed as a way to challenge myself to learn h
 
 ### What I worked on:
 
- - Creating the game concept and mechanics as well as emplementing the shooting and rotating mechanics.
+ - Creating the game concept and mechanics as well as implementing the shooting and rotating mechanics.
 
 ### Project Information:
 
