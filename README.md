@@ -18,8 +18,8 @@ layout: page
  - Languages - Java
  - Project Management - Git
 
-Download Duck Hunter on GitHub [here].()
-Download Processing [here].(https://processing.org/)
+Download Duck Hunter on GitHub [here](https://github.com/migdantas/Duck_Hunter).
+Download Processing [here](https://processing.org/).
 
 ## Smiley Catch
 
@@ -37,11 +37,29 @@ A micro-game proof of concept, developed as a way to challenge myself to learn h
  - Languages - C#
  - Project Management - Git
 
-Download Smiley Catch [here].(https://migdantas.itch.io/smileycatch)
-Check the project on GitHub [here].(https://migdantas.itch.io/smileycatch)
+Download Smiley Catch [here](https://migdantas.itch.io/smileycatch).
+Check the project on GitHub [here](https://github.com/migdantas/Smiley_Catch).
 
 ## Space Darkness
 
 ![space](d/space.png)
 
-Play and Check the code for Space Darkness [here].(https://tic80.com/play?cart=4132)
+
+### What I worked on:
+
+ - Creating the game concept and mechanics as well as emplementing the shooting and rotating mechanics.
+
+### Project Information:
+
+ - Tools - TIC-80
+ - Languages - Lua
+ - Project Management - Git
+
+### Project Partners:
+
+ - António Mota
+ - [Duarte Santos](https://duarte_santos.artstation.com/)
+ - [Francisco Sarmento](https://franciscosarmento7.artstation.com/)
+ - [Paulo Rodrigues](https://paulorodrigues12.github.io/)
+
+Play and Check the code for Space Darkness [here](https://tic80.com/play?cart=4132).
