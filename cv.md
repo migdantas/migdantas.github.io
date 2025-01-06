@@ -4,4 +4,4 @@ permalink: "/cv/"
 layout: page
 ---
 
-![My CV](/d/migueldantascv.pdf)
+[Download my CV](/d/migueldantascv.pdf)
