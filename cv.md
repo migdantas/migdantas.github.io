@@ -10,14 +10,14 @@ layout: page
 
 ### Contact Info:
 
-**EMail:** migdantas99@gmail.com
+**Email:** migdantas99@gmail.com  
 **Phone Number:** +351 912 963 926
 
 ---
 
 ## Experience:
 
-### Ground Control Studios (2024-2025)
+### Ground Control Studios (2024)
 **Joint Project**  
 Worked as Game Designer, Level Designer and Sound Designer on a Project.
 
