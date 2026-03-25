@@ -5,7 +5,7 @@ layout: page
 ---
 ## Personal Info:
 
-**Location:** Porto, Portugal
+**Location:** Porto, Portugal  
 **Birth Date:** may 1999
 
 ---
