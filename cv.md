@@ -35,6 +35,7 @@ Learned a lot of coding basis to a very deep and elemental level.
 
 ### 2022-2026
 **Polytechnic Institute of Maia - Degree in Digital Games Development**  
+Main Subject: Game Design.
 Degree where I started developing games for the first time and where I acquired most of my game development skills.
 
 ---
