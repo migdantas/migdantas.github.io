@@ -55,6 +55,8 @@ Degree where I started developing games for the first time and where I acquired 
 
 ## Skills
 
+### Technical Skills
+
 **Programing Languages:**
  - C# (Advanced Level)
  - C++ (Intermediate Level)
@@ -72,16 +74,23 @@ Degree where I started developing games for the first time and where I acquired 
  - Jira (Intermediate Level)
  - Trello (Intermediate Level)
 
-**Creation Programs**
+**Creation Programs:**
  - Adobe Photoshop (Advanced Level)
  - Blender (Advanced Level)
  - Adobe Substance Designer (Intermediate Level)
  - Adobe Illustrator (Intermediate Level)
 
-**Other Programs**
+**Other Programs:**
 - Adobe Premier (Intermediate Level)
 - Sony Vegas (Intermediate Level)
 
+### Soft Skills
+
+ - Good Time Manager
+ - Autonomous
+ - Good Problem Solver
+ - Detailed
+ - Good Communicator
 
 ### Dowload:
 
