@@ -14,6 +14,8 @@ Worked as Game Designer, Level Designer and Sound Designer on a Project.
 **Internship**  
 Worked as a Game Designer for several projects developing rulebooks and GDDs whenever necessary.
 
+---
+
 ## Education:
 
 ### 2017-2022
