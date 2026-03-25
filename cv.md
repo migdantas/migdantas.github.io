@@ -83,6 +83,8 @@ Degree where I started developing games for the first time and where I acquired 
 **Other Programs:**
 - Adobe Premier (Intermediate Level)
 - Sony Vegas (Intermediate Level)
+- Audacity (Advanced Level)
+- Ableton Live (Intermediate Level)
 
 ### Soft Skills
 
