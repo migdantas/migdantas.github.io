@@ -4,22 +4,24 @@ permalink: "/cv/"
 layout: page
 ---
 
-# Experience:
+## Experience:
 
-## - Ground Control Studios (2024-2025)
-### Joint Project
-Worked as Game Designer, Level Designer and Sound Designer.
-## - Virtual Campus Lda. (2025)
+### Ground Control Studios (2024-2025)
+**Joint Project**
+Worked as Game Designer, Level Designer and Sound Designer on a Project.
 
-### What I worked on:
+### Virtual Campus Lda. (2025)
+**Internship**
+Worked as a Game Designer for several projects developing rulebooks and GDDs whenever necessary.
 
- - Creating the game concept and loop, as well as the prototype project presented.
+## Education:
 
-### Project Information:
+### 2017-2022
+**Universidade do Porto**
+Learned a lot of coding basis to a very deep and elemental level.
 
- - Tools - Processing, Aseprite
- - Languages - Java
- - Project Management - Git
-
+### 2022-2026
+**Instituto Politécnico da Maia**
+Degree where I started developing games for the first time and where I acquired most of my game development skills.
 
 [Download my CV](/d/MiguelDantas_CV.pdf)
