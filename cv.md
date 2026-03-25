@@ -89,7 +89,7 @@ Degree where I started developing games for the first time and where I acquired 
  - Good Time Manager
  - Autonomous
  - Good Problem Solver
- - Detailed
+ - Detail Oriented
  - Good Communicator
 
 ### Dowload:
