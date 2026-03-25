@@ -8,6 +8,11 @@ layout: page
 **Location:** Porto, Portugal  
 **Birth Date:** may 1999
 
+### Contact Info:
+
+**EMail:** migdantas99@gmail.com
+**Phone Number:** +351 912 963 926
+
 ---
 
 ## Experience:
@@ -22,14 +27,14 @@ Worked as a Game Designer for several projects developing concepts, rulebooks an
 
 ---
 
-## Education:
+## Academic Background:
 
 ### 2017-2022
-**Universidade do Porto**  
+**Porto University - Master's Degree in Network and Information Systems Engineering**  
 Learned a lot of coding basis to a very deep and elemental level.
 
 ### 2022-2026
-**Instituto Politécnico da Maia**  
+**Polytechnic Institute of Maia - Degree in Digital Games Development**  
 Degree where I started developing games for the first time and where I acquired most of my game development skills.
 
 ---
@@ -77,5 +82,6 @@ Degree where I started developing games for the first time and where I acquired 
 - Sony Vegas (Intermediate Level)
 
 
+### Dowload:
 
 [Download my CV](/d/MiguelDantas_CV.pdf)
