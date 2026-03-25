@@ -7,8 +7,8 @@ layout: page
 # Experience:
 
 ## - Ground Control Studios (2024-2025)
-      ### Joint Project
-      Worked as Game Designer, Level Designer and Sound Designer.
+### Joint Project
+Worked as Game Designer, Level Designer and Sound Designer.
 ## - Virtual Campus Lda. (2025)
 
 ### What I worked on:
