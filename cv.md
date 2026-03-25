@@ -3,6 +3,12 @@ title: "Curriculum"
 permalink: "/cv/"
 layout: page
 ---
+## Personal Info:
+
+**Location:** Porto, Portugal
+**Birth Date:** may 1999
+
+---
 
 ## Experience:
 
