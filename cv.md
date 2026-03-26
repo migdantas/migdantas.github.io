@@ -42,6 +42,18 @@ Degree where I started developing games for the first time and where I acquired 
 
 ## Background
 
+### Gaming and Game Development
+ - Videogames have been a part of my life since I was a kid and started to become fascinated by it's elements and understanding of the mechanics.
+ - At 16 started a channel with gameplays where I'd develop abilities to try and not only experience and understand videogames, but also try and voice what I found positive and negative in the experiences.
+
+### Music and Sound
+ - Learned **violin** for a total of 16 years in a school called "A Pauta" that teaches using the Suzuki method.
+ - Learned to play the **piano** for a period of 4 years in school where I'd reach Trinity College's grade 3.
+ - More recently and incentivised by the Subject of Sound Design, I've been studying not only the creation of **foleys** and **sound editing**, but **composing** as well.
+
+### Other skills
+ - Practiced swimming for 15 years.
+ - Taekwondo and Hapkido for 2 years where I reached 7th Kup.
 
 ---
 
