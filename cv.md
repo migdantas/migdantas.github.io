@@ -17,26 +17,26 @@ layout: page
 
 ## Experience:
 
-### Ground Control Studios (2024)
-**Joint Project**  
-Worked as Game Designer, Level Designer and Sound Designer on a Project.
-
 ### Virtual Campus Lda. (2025)
 **Internship**  
 Worked as a Game Designer for several projects developing concepts, rulebooks and GDDs whenever necessary.
+
+### Ground Control Studios (2024)
+**Joint Project**  
+Worked as Game Designer, Level Designer and Sound Designer on a Project.
 
 ---
 
 ## Academic Background:
 
-### 2017-2022
-**Porto University - Master's Degree in Network and Information Systems Engineering**  
-Learned a lot of coding basis to a very deep and elemental level.
-
 ### 2022-2026
 **Polytechnic Institute of Maia - Degree in Digital Games Development**  
 Main Subject: Game Design.
 Degree where I started developing games for the first time and where I acquired most of my game development skills.
+
+### 2017-2022
+**Porto University - Master's Degree in Network and Information Systems Engineering**  
+Learned a lot of coding basis to a very deep and elemental level.
 
 ---
 
