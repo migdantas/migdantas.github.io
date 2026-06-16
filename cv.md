@@ -102,7 +102,7 @@ Learned a lot of coding basis to a very deep and elemental level.
 
  - Good Time Manager
  - Autonomous
- - Good Problem Solver
+ - Problem Solver
  - Detail Oriented
  - Good Communicator
 
